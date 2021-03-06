@@ -23,3 +23,13 @@
     border: 30px solid #aee051;
     margin: 70px;
 }
+
+.boite_3{
+    background-color:rgb(186, 196, 47);
+    border: 0 solid #5351e0;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #e05164;
+    margin: 70px;
+}
