@@ -1,0 +1,25 @@
+{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    box-sizing:border-box;
+}
+
+.boite_1{
+    background-color: coral;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9851E0;
+    margin: 100px;
+}
+
+.boite_2{
+    background-color:rgb(47, 196, 146);
+    border: 0 solid #51e058;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #aee051;
+    margin: 70px;
+}
